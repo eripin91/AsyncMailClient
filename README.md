@@ -24,7 +24,7 @@ The following are direct links to the appropriate samples from the Mail.dll samp
 ## POP3
 
 - [Connect to server](http://www.limilabs.com/blog/use-ssl-with-pop3)
-- [Download headers](http://www.limilabs.com/blog/get-email-headers-using-pop3-top-command) (you can assume that the TOP command is supported) 
+- [Download headers](http://www.limilabs.com/blog/get-email-headers-using-pop3-top-command) (assume that the TOP command is supported) 
 - [Download bodies](http://www.limilabs.com/blog/get-common-email-fields-subject-text-with-pop3)
 
 
